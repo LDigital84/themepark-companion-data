@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "resortId": "disneyland",
+  "attractions": {
+    "rise of the resistance": {
+      "landName": "Star Wars: Galaxy's Edge",
+      "isIndoor": true,
+      "usualWaitMinutes": 70,
+      "rideType": "Trackless Multi-Stage Experience",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "ECVs can navigate the queue and preshow areas right up to the interrogation room before transferring to the trackless troop transport.",
+      "description": "Join the Resistance in a massive multi-stage attraction where you are captured by a First Order Star Destroyer and must escape Kylo Ren."
+    },
+    "indiana jones adventure": {
+      "landName": "Adventureland",
+      "isIndoor": true,
+      "usualWaitMinutes": 60,
+      "rideType": "Enhanced Motion Dark Ride",
+      "thrillLevel": "High Thrill",
+      "minHeight": "46\" (117 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Troop Transport",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair for the temple queue. The troop transport features intense bumpy motion and requires stepping over a side wall.",
+      "description": "Board a rugged troop transport through the cursed Temple of the Forbidden Eye alongside Indiana Jones."
+    },
+    "space mountain": {
+      "landName": "Tomorrowland",
+      "isIndoor": true,
+      "usualWaitMinutes": 55,
+      "rideType": "Indoor Dark Coaster",
+      "thrillLevel": "High Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Rocket",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; Cast Members can route you to a dedicated offline load rocket for extra boarding time.",
+      "description": "Blast through pitch-black outer space on Disneyland's high-speed indoor roller coaster with a synchronized onboard soundtrack."
+    },
+    "tiana's bayou adventure": {
+      "landName": "Bayou Country",
+      "isIndoor": false,
+      "usualWaitMinutes": 60,
+      "rideType": "Musical Log Flume",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed (May Get Wet)",
+      "ecvPolicy": "Transfer to Log Flume",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue, then step down into the single-file log. Expect a soaking 50-foot plunge.",
+      "description": "Journey through the bayou with Princess Tiana and Louis to find critters for a Mardi Gras celebration before a 50-foot splashdown."
+    },
+    "matterhorn bobsleds": {
+      "landName": "Fantasyland",
+      "isIndoor": false,
+      "usualWaitMinutes": 50,
+      "rideType": "Steel Alpine Coaster",
+      "thrillLevel": "High Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Bobsled",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; bobsled seats sit low and narrow, requiring a step down into the sled.",
+      "description": "Hurtling down icy caverns and hairpin turns inside the Matterhorn while dodging the Abominable Snowman."
+    },
+    "big thunder mountain": {
+      "landName": "Frontierland",
+      "isIndoor": false,
+      "usualWaitMinutes": 40,
+      "rideType": "Runaway Mine Train Coaster",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Mine Train",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; exit-side boarding is used for guests needing step-free access to the load platform.",
+      "description": "Careen through a haunted gold-mining town and exploding caverns on the wildest ride in the wilderness."
+    },
+    "haunted mansion": {
+      "landName": "New Orleans Square",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Omnimover Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer (Belt Can Slow/Stop)",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair. Cast Members can slow or stop the moving walkway belt for easier boarding into the Doom Buggy.",
+      "description": "Glide through a spirited New Orleans estate inhabited by 999 happy haunts aboard a Doom Buggy."
+    },
+    "pirates of the caribbean": {
+      "landName": "New Orleans Square",
+      "isIndoor": true,
+      "usualWaitMinutes": 35,
+      "rideType": "Indoor Boat Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Boat",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair at the entrance; guests must step down into the boat. Features two drops in the dark.",
+      "description": "Set sail past Blue Bayou and plunge into a classic pirate raid featuring Captain Jack Sparrow and cannon battles."
+    },
+    "runaway railway": {
+      "landName": "Mickey's Toontown",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Trackless 2.5D Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "ECVs can navigate the El CapiTOON Theater queue right up to the boarding area before transferring into the train car.",
+      "description": "Step inside a Mickey Mouse cartoon short aboard Engineer Goofy's trackless train through unpredictable cartoon worlds."
+    },
+    "radiator springs racers": {
+      "landName": "Cars Land",
+      "isIndoor": false,
+      "usualWaitMinutes": 80,
+      "rideType": "High-Speed Slot Car Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue; a dedicated transfer car with a wider door opening is available upon request.",
+      "description": "Cruise through Ornament Valley, get a tune-up from Luigi or Ramone, and race side-by-side through red rock canyons at 40 mph."
+    },
+    "mission: breakout": {
+      "landName": "Avengers Campus",
+      "isIndoor": true,
+      "usualWaitMinutes": 65,
+      "rideType": "Randomized Drop Tower",
+      "thrillLevel": "High Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Gantry Lift",
+      "ecvDetailNote": "ECVs can stay with you through the Collector's Fortress queue right up to the gantry lift doors before transferring.",
+      "description": "Help Rocket Raccoon break the Guardians of the Galaxy out of the Collector's Fortress with randomized high-speed drops and classic rock tracks."
+    },
+    "incredicoaster": {
+      "landName": "Pixar Pier",
+      "isIndoor": false,
+      "usualWaitMinutes": 45,
+      "rideType": "Launched Looping Coaster",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Bags Allowed in Pouch (Loose Items Secured)",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Elevator provides access over the track to the load station; standard coaster seat transfer.",
+      "description": "Launch from 0 to 55 mph in 4 seconds across Pixar Pier with a single vertical loop as the Parr family chases Jack-Jack."
+    },
+    "web slingers": {
+      "landName": "Avengers Campus",
+      "isIndoor": true,
+      "usualWaitMinutes": 50,
+      "rideType": "Interactive 3D Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; a dedicated accessible WEB Slinger vehicle allows manual wheelchairs to roll directly onboard.",
+      "description": "Sling virtual webs with your hands to stop rogue Spider-Bots from overtaking Avengers Campus."
+    },
+    "soarin": {
+      "landName": "Grizzly Peak",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Flying Theater Simulator",
+      "thrillLevel": "Family",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Under-Seat Storage Pouch",
+      "ecvPolicy": "Transfer to Hang Glider Seat",
+      "ecvDetailNote": "ECVs can stay with you through the hangar queue right up to the theater doors before transferring into the glider seat.",
+      "description": "Lift off into a massive IMAX dome for a breezy hang-gliding flight over iconic landmarks complete with scents."
+    },
+    "toy story midway mania": {
+      "landName": "Pixar Pier",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Interactive 4D Shooter",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; a dedicated accessible carnival car allows manual wheelchairs to roll straight onboard.",
+      "description": "Compete in fast-paced 3D carnival midway games hosted by Woody, Buzz, and the Toy Story gang."
+    }
+  },
+  "shows": {
+    "fantasmic": {
+      "landName": "Rivers of America",
+      "isIndoor": false,
+      "durationMinutes": 27,
+      "description": "Disneyland's original nighttime spectacular on the Rivers of America featuring Mickey Mouse, pirate ships, water screens, and pyrotechnics.",
+      "typicalTimes": ["9:00 PM", "10:30 PM"]
+    },
+    "world of color": {
+      "landName": "Paradise Gardens Park",
+      "isIndoor": false,
+      "durationMinutes": 22,
+      "description": "Dazzling nighttime fountain, laser, fire, and projection spectacular across Paradise Bay at Disney California Adventure.",
+      "typicalTimes": ["9:00 PM", "10:15 PM"]
+    },
+    "fireworks": {
+      "landName": "Sleeping Beauty Castle",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "Nighttime fireworks and projection spectacular illuminating Sleeping Beauty Castle and Main Street, U.S.A.",
+      "typicalTimes": ["9:30 PM"]
+    },
+    "philharmagic": {
+      "landName": "Hollywood Land",
+      "isIndoor": true,
+      "durationMinutes": 12,
+      "description": "Indoor 4D musical theater show starring Donald Duck stumbling through classic Disney animated songs.",
+      "typicalTimes": ["Continuous Every 15m"]
+    }
+  }
+}
