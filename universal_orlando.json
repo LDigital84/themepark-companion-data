@@ -1,0 +1,323 @@
+{
+  "version": 1,
+  "resortId": "universal_orlando",
+  "attractions": {
+    "battle at the ministry": {
+      "landName": "Ministry of Magic",
+      "isIndoor": true,
+      "usualWaitMinutes": 90,
+      "rideType": "Mega Dark Ride",
+      "thrillLevel": "High Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer at Load",
+      "ecvDetailNote": "Queue is elevator-equipped through the Métro-Floo. Transfer from ECV to a standard wheelchair or transfer directly at the separate stationary load platform.",
+      "description": "Travel by Métro-Floo from 1920s Paris into the British Ministry of Magic for Dolores Umbridge's trial aboard omnidirectional lift vehicles."
+    },
+    "monsters unchained": {
+      "landName": "Dark Universe",
+      "isIndoor": true,
+      "usualWaitMinutes": 55,
+      "rideType": "Robotic KUKA Dark Ride",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Stationary Load Platform",
+      "ecvDetailNote": "Transfer from ECV to a courtesy manual wheelchair before the locker bay. Ask Team Members for the stationary load platform to avoid the moving walkway.",
+      "description": "Descend into the catacombs beneath Frankenstein Manor as Dr. Victoria Frankenstein's experiment unleashes Count Dracula and classic Universal monsters."
+    },
+    "stardust racers": {
+      "landName": "Celestial Park",
+      "isIndoor": false,
+      "usualWaitMinutes": 55,
+      "rideType": "Dual-Launch Racing Coaster",
+      "thrillLevel": "Extreme Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Lockers + Metal Detectors",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "All loose items including phones must go into free lockers before metal detectors. Elevator access to load platform with standard coaster transfer.",
+      "description": "Board a comet on this dual-launch racing coaster reaching 62 mph and 133 feet, featuring an inverted crisscross maneuver over Celestial Park."
+    },
+    "mario kart": {
+      "landName": "Super Nintendo World",
+      "isIndoor": true,
+      "usualWaitMinutes": 75,
+      "rideType": "AR Interactive Dark Ride",
+      "thrillLevel": "Family Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer at Load",
+      "ecvDetailNote": "Transfer to a manual wheelchair for the queue or use the elevator to the load platform. Accessible kart with a wide opening is available upon request.",
+      "description": "Put on augmented-reality goggles inside Bowser's Castle to steer, throw shells, and race Team Bowser across iconic Mario Kart courses."
+    },
+    "mine-cart madness": {
+      "landName": "Super Nintendo World",
+      "isIndoor": false,
+      "usualWaitMinutes": 70,
+      "rideType": "Boom Coaster",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Transfer from ECV to a courtesy wheelchair for the queue. Ride vehicle requires stepping over a side wall into the mine cart.",
+      "description": "Help Donkey Kong and Diddy Kong protect the Golden Banana on a track-jumping coaster that leaps across broken rails."
+    },
+    "hiccup's wing gliders": {
+      "landName": "Isle of Berk",
+      "isIndoor": false,
+      "usualWaitMinutes": 50,
+      "rideType": "Family Launch Coaster",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Store loose bags in the free lockers near the entrance. Transfer from ECV to a manual wheelchair for the queue and step into the glider seat.",
+      "description": "Launch across the lagoon and village of Berk aboard Hiccup's latest winged contraption alongside Toothless and other dragons."
+    },
+    "curse of the werewolf": {
+      "landName": "Dark Universe",
+      "isIndoor": false,
+      "usualWaitMinutes": 45,
+      "rideType": "Spinning Launch Coaster",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Standard queue wheelchair transfer. Ride cars spin freely during the coaster launches through the dark forest.",
+      "description": "Weave through the dark woods outside Darkmoor Village on a spinning family thrill coaster while escaping a pack of werewolves."
+    },
+    "hagrid": {
+      "landName": "Hogsmeade",
+      "isIndoor": false,
+      "usualWaitMinutes": 95,
+      "rideType": "Story Coaster (7 Launches)",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Stationary Sidecar Transfer",
+      "ecvDetailNote": "Transfer to a manual wheelchair at the entrance. Request the stationary offline load platform—the Sidecar is much easier to step into than the Motorbike.",
+      "description": "Join Hagrid's Care of Magical Creatures class on a motorbike or sidecar across seven launches, a reverse track, and a surprise vertical drop."
+    },
+    "velocicoaster": {
+      "landName": "Jurassic Park",
+      "isIndoor": false,
+      "usualWaitMinutes": 60,
+      "rideType": "Extreme Launch Coaster",
+      "thrillLevel": "Extreme Thrill",
+      "minHeight": "51\" (130 cm)",
+      "lockerPolicy": "Free Double-Sided Lockers + Metal Detectors",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Double-sided lockers are built into the queue just before the metal detectors. Elevator access to load platform with standard coaster transfer.",
+      "description": "Race alongside a pack of Velociraptors through the paddock with two high-speed launches up to 70 mph and a 155-foot top hat."
+    },
+    "forbidden journey": {
+      "landName": "Hogsmeade",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Robotic KUKA Dark Ride",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Stationary Load Platform",
+      "ecvDetailNote": "Transfer to a manual wheelchair at the castle entrance. Ask Team Members for the stationary load platform to bypass the moving walkway.",
+      "description": "Soar above Hogwarts grounds, dodge a Hungarian Horntail, and face Dementors on an enchanted bench inside Hogwarts Castle."
+    },
+    "incredible hulk": {
+      "landName": "Marvel Super Hero Island",
+      "isIndoor": false,
+      "usualWaitMinutes": 45,
+      "rideType": "Launched Looping Coaster",
+      "thrillLevel": "Extreme Thrill",
+      "minHeight": "54\" (137 cm)",
+      "lockerPolicy": "Free Lockers + Metal Detectors",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "All pockets must be completely empty before passing through metal detectors. Elevator access to the load station.",
+      "description": "Blast from 0 to 40 mph in two seconds straight into a zero-G roll and seven intense inversions."
+    },
+    "spider-man": {
+      "landName": "Marvel Super Hero Island",
+      "isIndoor": true,
+      "usualWaitMinutes": 40,
+      "rideType": "3D Motion Dark Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer at Load",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair at the entrance. Scoop vehicles require stepping over a low side rail.",
+      "description": "Board a Daily Bugle Scoop vehicle and wear 3D glasses to swing through New York alongside Spider-Man against the Sinister Syndicate."
+    },
+    "reign of kong": {
+      "landName": "Skull Island",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Trackless Expedition Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "36\" (92 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Vehicle",
+      "ecvDetailNote": "Transfer from ECV to a standard wheelchair at the entrance; a dedicated expedition truck allows manual wheelchairs to roll directly onboard.",
+      "description": "Venture deep into Skull Island aboard a massive expedition truck as prehistoric predators clash with King Kong."
+    },
+    "river adventure": {
+      "landName": "Jurassic Park",
+      "isIndoor": false,
+      "usualWaitMinutes": 40,
+      "rideType": "Flume Water Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "Bags Allowed (May Get Wet)",
+      "ecvPolicy": "Transfer to Boat",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair for the queue, then step down into the raft. Expect a soaking 85-foot plunge.",
+      "description": "Cruise past peaceful dinosaurs before a containment breach sends your raft face-to-face with a T. rex and down an 85-foot drop."
+    },
+    "escape from gringotts": {
+      "landName": "Diagon Alley",
+      "isIndoor": true,
+      "usualWaitMinutes": 60,
+      "rideType": "3D Indoor Coaster",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Wheelchair Transfer at Load",
+      "ecvDetailNote": "Transfer from ECV to a courtesy wheelchair before the bank lobby. Elevator bypasses the stairs to the underground load station.",
+      "description": "Navigate the subterranean vaults of Gringotts Wizarding Bank while dodging Voldemort, Bellatrix, and a fire-breathing dragon."
+    },
+    "revenge of the mummy": {
+      "landName": "New York",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Indoor Launch Coaster",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "All bags must be stored in free lockers outside the museum entrance. Elevator access to load platform.",
+      "description": "Plunge into total darkness on an indoor psychological thrill coaster with fire effects, backwards drops, and a high-speed launch."
+    },
+    "transformers": {
+      "landName": "Production Central",
+      "isIndoor": true,
+      "usualWaitMinutes": 40,
+      "rideType": "3D Motion Dark Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer at Load",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair at the entrance; elevator provides access to the upper load level.",
+      "description": "Join Optimus Prime and Bumblebee inside EVAC to protect the AllSpark from Megatron in a fast-paced 3D battle."
+    },
+    "minion mayhem": {
+      "landName": "Minion Land",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Motion Simulator",
+      "thrillLevel": "Family",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Remain in Wheelchair (Stationary Seating)",
+      "ecvDetailNote": "Stationary accessible seating is available at the front of the theater so guests can remain in their wheelchair without transferring.",
+      "description": "Enter Gru's laboratory for chaotic Minion training in a family-friendly motion simulator."
+    },
+    "e.t. adventure": {
+      "landName": "DreamWorks Land",
+      "isIndoor": true,
+      "usualWaitMinutes": 35,
+      "rideType": "Suspended Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "34\" (86 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Vehicle",
+      "ecvDetailNote": "Manual wheelchairs can roll directly onto a dedicated spaceship vehicle; ECV users transfer to a courtesy wheelchair.",
+      "description": "Board a flying bicycle to help E.T. return to the Green Planet in Universal Studios Florida's classic opening-day dark ride."
+    },
+    "men in black": {
+      "landName": "World Expo",
+      "isIndoor": true,
+      "usualWaitMinutes": 30,
+      "rideType": "Interactive Shooter Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Store bags in the free lockers at the entrance. Transfer from ECV to a manual wheelchair for the queue.",
+      "description": "Zap aliens across New York streets with your laser blaster and compete for the highest agent score."
+    },
+    "krakatau": {
+      "landName": "Volcano Bay",
+      "isIndoor": false,
+      "usualWaitMinutes": 60,
+      "rideType": "Aqua Coaster",
+      "thrillLevel": "High Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "TapuTapu Virtual Line",
+      "ecvPolicy": "Transfer to Raft",
+      "ecvDetailNote": "Uses TapuTapu virtual line return times. Guests must transfer into the four-person canoe raft.",
+      "description": "Twist, plunge, and propel uphill through the misty interior of the Krakatau volcano on a magnetic water coaster."
+    }
+  },
+  "shows": {
+    "untrainable": {
+      "landName": "Isle of Berk",
+      "isIndoor": true,
+      "durationMinutes": 20,
+      "description": "A live dragon-filled stage production featuring Hiccup, Toothless, Gobber, and Astrid soaring above the audience.",
+      "typicalTimes": ["10:45 AM", "12:15 PM", "1:45 PM", "3:30 PM", "5:00 PM", "6:30 PM"]
+    },
+    "cirque arcanus": {
+      "landName": "Ministry of Magic",
+      "isIndoor": true,
+      "durationMinutes": 20,
+      "description": "Step inside the traveling magical circus in 1920s Paris featuring live performers, aerialists, puppetry, and fantastic beasts.",
+      "typicalTimes": ["10:30 AM", "12:00 PM", "1:30 PM", "3:15 PM", "4:45 PM", "6:15 PM"]
+    },
+    "bourne stuntacular": {
+      "landName": "Hollywood",
+      "isIndoor": true,
+      "durationMinutes": 25,
+      "description": "Cutting-edge fusion of live stunt performers, massive LED projection screens, and automated set pieces following Jason Bourne.",
+      "typicalTimes": ["10:45 AM", "12:00 PM", "1:15 PM", "2:45 PM", "4:00 PM", "5:15 PM", "6:30 PM"]
+    },
+    "horror make-up": {
+      "landName": "Hollywood",
+      "isIndoor": true,
+      "durationMinutes": 25,
+      "description": "Fast-paced comedy demonstration revealing the special-effects secrets behind Universal's classic movie monsters.",
+      "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "1:45 PM", "3:00 PM", "4:15 PM", "5:15 PM"]
+    },
+    "animal actors": {
+      "landName": "Hollywood",
+      "isIndoor": false,
+      "durationMinutes": 20,
+      "description": "Live outdoor amphitheater show starring rescued dogs, birds, and animal performers.",
+      "typicalTimes": ["11:15 AM", "12:30 PM", "1:45 PM", "3:15 PM", "4:30 PM"]
+    },
+    "blues brothers": {
+      "landName": "New York",
+      "isIndoor": false,
+      "durationMinutes": 20,
+      "description": "Jake and Elwood Blues perform classic soul and rhythm & blues hits live on the streets of New York.",
+      "typicalTimes": ["11:00 AM", "12:00 PM", "1:00 PM", "2:30 PM", "3:45 PM", "5:00 PM"]
+    },
+    "celestina warbeck": {
+      "landName": "Diagon Alley",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "The Singing Sorceress and her Banshees perform jazzy wizarding hits live on the Carkitt Market stage.",
+      "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM"]
+    },
+    "frog choir": {
+      "landName": "Hogsmeade",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "Hogwarts students from all four houses perform a cappella wizarding songs accompanied by giant bass-croaking frogs.",
+      "typicalTimes": ["10:15 AM", "11:15 AM", "12:15 PM", "2:15 PM", "3:15 PM", "4:15 PM"]
+    },
+    "cinesational": {
+      "landName": "Central Lagoon",
+      "isIndoor": false,
+      "durationMinutes": 22,
+      "description": "Nighttime lagoon spectacular featuring fountains, 4K water projection mapping, lasers, pyrotechnics, and 600+ drones.",
+      "typicalTimes": ["8:00 PM", "9:00 PM"]
+    }
+  }
+}
