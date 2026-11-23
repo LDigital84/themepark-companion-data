@@ -1,0 +1,156 @@
+{
+  "version": 1,
+  "resortId": "universal_hollywood",
+  "attractions": {
+    "mario kart": {
+      "landName": "Super Nintendo World (Lower Lot)",
+      "isIndoor": true,
+      "usualWaitMinutes": 75,
+      "rideType": "AR Interactive Dark Ride",
+      "thrillLevel": "Family Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer at Load",
+      "ecvDetailNote": "Lower Lot is reached via StarWay escalators or accessible shuttle vans. Transfer from ECV to a manual wheelchair for the queue.",
+      "description": "Put on augmented-reality goggles inside Bowser's Castle to steer, throw shells, and race Team Bowser across iconic Mario Kart courses."
+    },
+    "jurassic world": {
+      "landName": "Lower Lot",
+      "isIndoor": false,
+      "usualWaitMinutes": 55,
+      "rideType": "Flume Water Ride",
+      "thrillLevel": "High Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "Bags Allowed (Will Get Wet)",
+      "ecvPolicy": "Transfer to Boat",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair for the queue, then step down into the raft. Expect a soaking 84-foot plunge.",
+      "description": "Drift past the Mosasaurus aquarium before an Indominus rex breakout sends your raft plunging down an 84-foot waterfall."
+    },
+    "studio tour": {
+      "landName": "Upper Lot",
+      "isIndoor": false,
+      "usualWaitMinutes": 45,
+      "rideType": "Guided Backlot Tram Tour",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Tram",
+      "ecvPolicy": "Wheelchair & ECV Accessible Tram",
+      "ecvDetailNote": "Dedicated accessible tram cars feature a ramp so guests can remain in their manual wheelchair or ECV for the entire 60-minute tour.",
+      "description": "Explore a real working Hollywood movie studio backlot featuring King Kong 360 3-D, Jaws, Earthquake, and Fast & Furious – Supercharged."
+    },
+    "forbidden journey": {
+      "landName": "Wizarding World (Upper Lot)",
+      "isIndoor": true,
+      "usualWaitMinutes": 50,
+      "rideType": "Robotic KUKA Dark Ride",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Stationary Load Platform",
+      "ecvDetailNote": "Transfer to a manual wheelchair at the castle entrance. Ask Team Members for the stationary load platform to bypass the moving walkway.",
+      "description": "Soar above Hogwarts grounds, dodge a dragon, and face Dementors on an enchanted bench inside Hogwarts Castle."
+    },
+    "revenge of the mummy": {
+      "landName": "Lower Lot",
+      "isIndoor": true,
+      "usualWaitMinutes": 45,
+      "rideType": "Indoor Launch Coaster",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "All loose bags must go into free lockers near the entrance. Standard coaster transfer at the load station.",
+      "description": "Plunge into pitch-black Egyptian tombs at 45 mph with forwards and backwards coaster launches."
+    },
+    "transformers": {
+      "landName": "Lower Lot",
+      "isIndoor": true,
+      "usualWaitMinutes": 40,
+      "rideType": "3D Motion Dark Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer at Load",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair at the entrance; elevator provides access to the upper load level.",
+      "description": "Join Optimus Prime and Bumblebee inside EVAC to protect the AllSpark from Megatron in a fast-paced 3D battle."
+    },
+    "secret life of pets": {
+      "landName": "Upper Lot",
+      "isIndoor": true,
+      "usualWaitMinutes": 40,
+      "rideType": "Trackless Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "34\" (86 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Cardboard Box Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; Cast Members can slow or stop the load belt for easier boarding.",
+      "description": "Transform into a stray puppy and journey through New York City with Max, Duke, and Snowball on your way to Adoption Day."
+    },
+    "simpsons ride": {
+      "landName": "Springfield (Upper Lot)",
+      "isIndoor": true,
+      "usualWaitMinutes": 40,
+      "rideType": "Motion Simulator",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Elevator access to simulator rooms; guests must transfer from wheelchair into the ride car.",
+      "description": "Join Homer, Marge, Bart, Lisa, and Maggie on a chaotic virtual coaster through Krustyland."
+    },
+    "minion mayhem": {
+      "landName": "Upper Lot",
+      "isIndoor": true,
+      "usualWaitMinutes": 35,
+      "rideType": "Motion Simulator",
+      "thrillLevel": "Family",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Remain in Wheelchair (Stationary Seating)",
+      "ecvDetailNote": "Stationary accessible seating is available at the front of the theater so guests can remain in their wheelchair without transferring.",
+      "description": "Enter Gru's laboratory for chaotic Minion training in a family-friendly motion simulator."
+    },
+    "flight of the hippogriff": {
+      "landName": "Wizarding World (Upper Lot)",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "Family Roller Coaster",
+      "thrillLevel": "Family Thrill",
+      "minHeight": "39\" (99 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue; standard step-over transfer into the coaster car.",
+      "description": "Swoop past Hagrid's Hut and a bowing Hippogriff on a gentle outdoor family coaster."
+    }
+  },
+  "shows": {
+    "waterworld": {
+      "landName": "Upper Lot",
+      "isIndoor": false,
+      "durationMinutes": 20,
+      "description": "Action-packed live water stunt spectacular featuring jet skis, fireballs, explosions, and a crashing seaplane.",
+      "typicalTimes": ["11:45 AM", "1:15 PM", "2:45 PM", "4:15 PM", "5:30 PM"]
+    },
+    "frog choir": {
+      "landName": "Wizarding World (Upper Lot)",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "Hogwarts students from all four houses perform a cappella wizarding songs accompanied by giant bass-croaking frogs.",
+      "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "2:30 PM", "3:30 PM", "4:30 PM"]
+    },
+    "triwizard spirit": {
+      "landName": "Wizarding World (Upper Lot)",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "Colorful procession and martial arts/rhythmic gymnastics display by Beauxbatons and Durmstrang students.",
+      "typicalTimes": ["11:00 AM", "12:00 PM", "1:00 PM", "3:00 PM", "4:00 PM"]
+    },
+    "ollivanders": {
+      "landName": "Wizarding World (Upper Lot)",
+      "isIndoor": true,
+      "durationMinutes": 10,
+      "description": "Intimate interactive wandkeeper ceremony where a wand chooses a wizard from the audience.",
+      "typicalTimes": ["Continuous Every 10m"]
+    }
+  }
+}
