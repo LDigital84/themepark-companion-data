@@ -1,7 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
   "resortId": "universal_hollywood",
   "attractions": {
+    "hollywood drift": {
+      "landName": "Upper Lot to Lower Lot",
+      "isIndoor": false,
+      "usualWaitMinutes": 75,
+      "rideType": "360° Drifting Launch Coaster",
+      "thrillLevel": "Extreme Thrill",
+      "minHeight": "51\" (130 cm)",
+      "lockerPolicy": "Free Lockers + Metal Detectors",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "All loose items must be stored in free lockers before metal detectors. Standard coaster seat transfer.",
+      "description": "Universal's fastest coaster launches up to 72 mph across 4,100 feet of hillside track with 360-degree rotating cars that simulate drifting."
+    },
     "mario kart": {
       "landName": "Super Nintendo World (Lower Lot)",
       "isIndoor": true,
@@ -110,6 +122,18 @@
       "ecvDetailNote": "Stationary accessible seating is available at the front of the theater so guests can remain in their wheelchair without transferring.",
       "description": "Enter Gru's laboratory for chaotic Minion training in a family-friendly motion simulator."
     },
+    "silly swirly": {
+      "landName": "Super Silly Fun Land (Upper Lot)",
+      "isIndoor": false,
+      "usualWaitMinutes": 20,
+      "rideType": "Aerial Spinner",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Under 48\" with Companion)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Standard wheelchair transfer into the flying vehicle.",
+      "description": "Spin and soar above Super Silly Fun Land in whimsical, brightly colored flying vehicles."
+    },
     "flight of the hippogriff": {
       "landName": "Wizarding World (Upper Lot)",
       "isIndoor": false,
@@ -121,6 +145,18 @@
       "ecvPolicy": "Transfer to Ride Vehicle",
       "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue; standard step-over transfer into the coaster car.",
       "description": "Swoop past Hagrid's Hut and a bowing Hippogriff on a gentle outdoor family coaster."
+    },
+    "kung fu panda": {
+      "landName": "Upper Lot",
+      "isIndoor": true,
+      "usualWaitMinutes": 20,
+      "rideType": "4D Motion Theater",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Remain in Wheelchair",
+      "ecvDetailNote": "Accessible seating allows guests to remain in their wheelchair or ECV throughout the 4D show.",
+      "description": "Join Master Po inside the DreamWorks Theatre for a 180-degree projection-mapped 4D martial arts adventure."
     }
   },
   "shows": {
