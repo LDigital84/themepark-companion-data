@@ -1,0 +1,20 @@
+{
+  "resorts": {
+    "universal_orlando": {
+      "version": 1,
+      "file": "universal_orlando.json"
+    },
+    "walt_disney_world": {
+      "version": 1,
+      "file": "walt_disney_world.json"
+    },
+    "disneyland": {
+      "version": 1,
+      "file": "disneyland.json"
+    },
+    "universal_hollywood": {
+      "version": 1,
+      "file": "universal_hollywood.json"
+    }
+  }
+}
