@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "resortId": "universal_orlando",
   "attractions": {
     "battle at the ministry": {
@@ -38,6 +38,18 @@
       "ecvDetailNote": "All loose items including phones must go into free lockers before metal detectors. Elevator access to load platform with standard coaster transfer.",
       "description": "Board a comet on this dual-launch racing coaster reaching 62 mph and 133 feet, featuring an inverted crisscross maneuver over Celestial Park."
     },
+    "constellation carousel": {
+      "landName": "Celestial Park",
+      "isIndoor": false,
+      "usualWaitMinutes": 20,
+      "rideType": "Celestial Carousel",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Under 48\" with Companion)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Chariot",
+      "ecvDetailNote": "A dedicated accessible carriage allows guests to remain in a manual wheelchair during the ride.",
+      "description": "Glide and turn 360 degrees aboard cosmic lions, dragons, and peacocks lifted up to six feet in the air under a starry canopy."
+    },
     "mario kart": {
       "landName": "Super Nintendo World",
       "isIndoor": true,
@@ -62,6 +74,18 @@
       "ecvDetailNote": "Transfer from ECV to a courtesy wheelchair for the queue. Ride vehicle requires stepping over a side wall into the mine cart.",
       "description": "Help Donkey Kong and Diddy Kong protect the Golden Banana on a track-jumping coaster that leaps across broken rails."
     },
+    "yoshi's adventure": {
+      "landName": "Super Nintendo World",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "Scenic Omnimover Ride",
+      "thrillLevel": "Family",
+      "minHeight": "34\" (87 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair for the queue; Team Members can slow the load belt for easier boarding.",
+      "description": "Ride atop a colorful Yoshi through the Mushroom Kingdom searching for glowing eggs while enjoying elevated views of Super Nintendo World."
+    },
     "hiccup's wing gliders": {
       "landName": "Isle of Berk",
       "isIndoor": false,
@@ -73,6 +97,30 @@
       "ecvPolicy": "Transfer to Ride Vehicle",
       "ecvDetailNote": "Store loose bags in the free lockers near the entrance. Transfer from ECV to a manual wheelchair for the queue and step into the glider seat.",
       "description": "Launch across the lagoon and village of Berk aboard Hiccup's latest winged contraption alongside Toothless and other dragons."
+    },
+    "dragon racer's rally": {
+      "landName": "Isle of Berk",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "Interactive Sky Fly",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "Free Ride Lockers Required",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Store loose items in the free lockers. Guests must transfer into the suspended dragon racer seat.",
+      "description": "Soar up to 67 feet in the air and control your own wings to perform gentle glides or full barrel rolls above Berk."
+    },
+    "fyre drill": {
+      "landName": "Isle of Berk",
+      "isIndoor": false,
+      "usualWaitMinutes": 30,
+      "rideType": "Interactive Water Battle Boat",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Under 48\" with Companion)",
+      "lockerPolicy": "Bags Allowed (Will Get Wet)",
+      "ecvPolicy": "Transfer to Boat",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair for the queue, then step into the Viking boat. Expect to get splashed.",
+      "description": "Board a colorful dragon-headed boat and blast flame-like targets—and other boats—with water cannons during Viking firefighting practice."
     },
     "curse of the werewolf": {
       "landName": "Dark Universe",
@@ -122,6 +170,30 @@
       "ecvDetailNote": "Transfer to a manual wheelchair at the castle entrance. Ask Team Members for the stationary load platform to bypass the moving walkway.",
       "description": "Soar above Hogwarts grounds, dodge a Hungarian Horntail, and face Dementors on an enchanted bench inside Hogwarts Castle."
     },
+    "flight of the hippogriff": {
+      "landName": "Hogsmeade",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "Family Roller Coaster",
+      "thrillLevel": "Family Thrill",
+      "minHeight": "36\" (92 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair for the queue; standard coaster seat transfer.",
+      "description": "Swoop past Hagrid's Hut and a bowing Hippogriff on a gentle outdoor family coaster."
+    },
+    "hogwarts express": {
+      "landName": "Wizarding World",
+      "isIndoor": true,
+      "usualWaitMinutes": 35,
+      "rideType": "Park-to-Park Train",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Park-to-Park Ticket Required)",
+      "lockerPolicy": "Bags Allowed on Train",
+      "ecvPolicy": "Wheelchair & ECV Accessible",
+      "ecvDetailNote": "Elevators provide step-free access to the platform; guests can roll directly into accessible train compartments.",
+      "description": "Board the iconic scarlet steam train between Hogsmeade Station and King's Cross Station with a different story in each direction."
+    },
     "incredible hulk": {
       "landName": "Marvel Super Hero Island",
       "isIndoor": false,
@@ -146,6 +218,30 @@
       "ecvDetailNote": "ECVs transfer to a manual wheelchair at the entrance. Scoop vehicles require stepping over a low side rail.",
       "description": "Board a Daily Bugle Scoop vehicle and wear 3D glasses to swing through New York alongside Spider-Man against the Sinister Syndicate."
     },
+    "doctor doom's fearfall": {
+      "landName": "Marvel Super Hero Island",
+      "isIndoor": false,
+      "usualWaitMinutes": 30,
+      "rideType": "Space Shot Drop Tower",
+      "thrillLevel": "High Thrill",
+      "minHeight": "52\" (132 cm)",
+      "lockerPolicy": "Bags Stored in Platform Bins",
+      "ecvPolicy": "Transfer to Ride Seat",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair; guests must transfer into the over-the-shoulder harness seat.",
+      "description": "Rocket 185 feet into the sky faster than gravity before plunging back down in Doctor Doom's fear-extracting tower."
+    },
+    "storm force accelatron": {
+      "landName": "Marvel Super Hero Island",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Spinning Teacup Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Under 48\" with Companion)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Standard wheelchair transfer into the spinning pod.",
+      "description": "Spin faster and faster to help Storm generate a thunderstorm strong enough to defeat Magneto."
+    },
     "reign of kong": {
       "landName": "Skull Island",
       "isIndoor": true,
@@ -169,6 +265,90 @@
       "ecvPolicy": "Transfer to Boat",
       "ecvDetailNote": "Transfer from ECV to a manual wheelchair for the queue, then step down into the raft. Expect a soaking 85-foot plunge.",
       "description": "Cruise past peaceful dinosaurs before a containment breach sends your raft face-to-face with a T. rex and down an 85-foot drop."
+    },
+    "pteranodon flyers": {
+      "landName": "Jurassic Park",
+      "isIndoor": false,
+      "usualWaitMinutes": 45,
+      "rideType": "Suspended Kids Coaster",
+      "thrillLevel": "Family",
+      "minHeight": "36\"–56\" (Adults Must Accompany a Child)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Seat",
+      "ecvDetailNote": "Designed for children 36\" to 56\" tall; guests over 56\" may only ride when accompanying a child who meets the height requirement.",
+      "description": "Soar beneath the wings of a Pteranodon on a gentle suspended glide high above Camp Jurassic."
+    },
+    "ripsaw falls": {
+      "landName": "Toon Lagoon",
+      "isIndoor": false,
+      "usualWaitMinutes": 45,
+      "rideType": "Log Flume Water Ride",
+      "thrillLevel": "High Thrill",
+      "minHeight": "44\" (112 cm)",
+      "lockerPolicy": "Paid Lockers Nearby (Will Get Soaked)",
+      "ecvPolicy": "Transfer to Log Flume",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair; guests must step down into the narrow inline log.",
+      "description": "Twist through comical cartoon scenes before plunging down a steep 75-foot double-dip waterfall drop."
+    },
+    "bilge-rat barges": {
+      "landName": "Toon Lagoon",
+      "isIndoor": false,
+      "usualWaitMinutes": 40,
+      "rideType": "White-Water Raft Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "Center Waterproof Compartment (Will Get Drenched)",
+      "ecvPolicy": "Transfer to Raft",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair; step down into the circular raft. You will get completely soaked.",
+      "description": "Spin through churning rapids, waterfalls, and water cannons on the wettest raft ride in Orlando."
+    },
+    "cat in the hat": {
+      "landName": "Seuss Landing",
+      "isIndoor": true,
+      "usualWaitMinutes": 25,
+      "rideType": "Indoor Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "36\" (92 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Transfer from ECV to a manual wheelchair; step into the couch-style ride vehicle.",
+      "description": "Weave through the whimsical pages of Dr. Seuss's classic story alongside Thing 1 and Thing 2."
+    },
+    "seuss trolley": {
+      "landName": "Seuss Landing",
+      "isIndoor": false,
+      "usualWaitMinutes": 25,
+      "rideType": "Elevated Scenic Train",
+      "thrillLevel": "Family",
+      "minHeight": "36\" (92 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Elevator provides access to the elevated station; transfer into the trolley seat.",
+      "description": "Enjoy panoramic elevated views of Seuss Landing and the lagoon along two different Dr. Seuss story tracks."
+    },
+    "one fish, two fish": {
+      "landName": "Seuss Landing",
+      "isIndoor": false,
+      "usualWaitMinutes": 20,
+      "rideType": "Musical Aerial Spinner",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Under 48\" with Companion)",
+      "lockerPolicy": "Bags Allowed (May Get Sprayed)",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Standard wheelchair transfer into the flying fish vehicle.",
+      "description": "Steer your flying fish up and down while following the musical rhyme to dodge squirts of water."
+    },
+    "caro-seuss-el": {
+      "landName": "Seuss Landing",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Whimsical Carousel",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Under 48\" with Companion)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Chariot",
+      "ecvDetailNote": "Dedicated accessible carriage allows manual wheelchairs to roll directly onto the carousel.",
+      "description": "Ride interactive Dr. Seuss creatures whose eyes blink, ears wiggle, and heads bob as you spin."
     },
     "escape from gringotts": {
       "landName": "Diagon Alley",
@@ -218,6 +398,30 @@
       "ecvDetailNote": "Stationary accessible seating is available at the front of the theater so guests can remain in their wheelchair without transferring.",
       "description": "Enter Gru's laboratory for chaotic Minion training in a family-friendly motion simulator."
     },
+    "minion blast": {
+      "landName": "Minion Land",
+      "isIndoor": true,
+      "usualWaitMinutes": 25,
+      "rideType": "Moving-Walkway Blaster Game",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Handheld Blaster)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Walkway",
+      "ecvDetailNote": "Manual wheelchairs and ECVs can roll directly onto the slow-moving walkway without transferring.",
+      "description": "Step onto a moving walkway with an E-Liminator X blaster to rack up points and audition for the Vicious 6."
+    },
+    "jimmy fallon": {
+      "landName": "New York",
+      "isIndoor": true,
+      "usualWaitMinutes": 25,
+      "rideType": "3D Flying Theater",
+      "thrillLevel": "Family",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Theater Seat",
+      "ecvDetailNote": "Elevator provides access to the upstairs lounge and theater; transfer from wheelchair to the theater seat.",
+      "description": "Race Jimmy Fallon through the streets, subways, and skies of New York City—and even to the moon—in a 3D motion theater."
+    },
     "e.t. adventure": {
       "landName": "DreamWorks Land",
       "isIndoor": true,
@@ -229,6 +433,18 @@
       "ecvPolicy": "Wheelchair Accessible Vehicle",
       "ecvDetailNote": "Manual wheelchairs can roll directly onto a dedicated spaceship vehicle; ECV users transfer to a courtesy wheelchair.",
       "description": "Board a flying bicycle to help E.T. return to the Green Planet in Universal Studios Florida's classic opening-day dark ride."
+    },
+    "trollercoaster": {
+      "landName": "DreamWorks Land",
+      "isIndoor": false,
+      "usualWaitMinutes": 25,
+      "rideType": "Family Roller Coaster",
+      "thrillLevel": "Family",
+      "minHeight": "36\" (92 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Standard wheelchair transfer into the Caterbus coaster seat.",
+      "description": "Hop aboard the Caterbus with Poppy, Viva, and Branch to escape evil spiders on a colorful family coaster."
     },
     "men in black": {
       "landName": "World Expo",
@@ -242,6 +458,30 @@
       "ecvDetailNote": "Store bags in the free lockers at the entrance. Transfer from ECV to a manual wheelchair for the queue.",
       "description": "Zap aliens across New York streets with your laser blaster and compete for the highest agent score."
     },
+    "simpsons ride": {
+      "landName": "Springfield",
+      "isIndoor": true,
+      "usualWaitMinutes": 35,
+      "rideType": "Motion Simulator",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Elevator access to simulator rooms; guests must transfer from wheelchair into the ride car.",
+      "description": "Join Homer, Marge, Bart, Lisa, and Maggie on a chaotic virtual coaster through Krustyland."
+    },
+    "kang & kodos": {
+      "landName": "Springfield",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Aerial Spinner",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height (Under 48\" with Companion)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "Standard wheelchair transfer into the flying saucer.",
+      "description": "Pilot a spinning alien saucer over Springfield while dodging laser blasts from Kang and Kodos."
+    },
     "krakatau": {
       "landName": "Volcano Bay",
       "isIndoor": false,
@@ -253,6 +493,54 @@
       "ecvPolicy": "Transfer to Raft",
       "ecvDetailNote": "Uses TapuTapu virtual line return times. Guests must transfer into the four-person canoe raft.",
       "description": "Twist, plunge, and propel uphill through the misty interior of the Krakatau volcano on a magnetic water coaster."
+    },
+    "ko'okiri": {
+      "landName": "Volcano Bay",
+      "isIndoor": false,
+      "usualWaitMinutes": 40,
+      "rideType": "70-Degree Drop Body Slide",
+      "thrillLevel": "Extreme Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "No Loose Items Allowed",
+      "ecvPolicy": "Stairs to Volcano Peak",
+      "ecvDetailNote": "Requires climbing stairs to the top of the 125-foot volcano.",
+      "description": "Step into a trapdoor capsule at the summit of Krakatau for a 70-degree, 125-foot plunge straight through the pool below."
+    },
+    "honu": {
+      "landName": "Volcano Bay",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "Multi-Passenger Raft Slide",
+      "thrillLevel": "High Thrill",
+      "minHeight": "48\" (122 cm)",
+      "lockerPolicy": "No Loose Items Allowed",
+      "ecvPolicy": "Stairs to Slide Platform",
+      "ecvDetailNote": "Multi-person raft slide requiring stairs to the launch tower.",
+      "description": "Sweep up two massive sloped walls on a multi-passenger raft inspired by sea turtles gliding through ocean swells."
+    },
+    "maku puihi": {
+      "landName": "Volcano Bay",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "Zero-G Funnel Raft Slide",
+      "thrillLevel": "High Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "No Loose Items Allowed",
+      "ecvPolicy": "Stairs to Slide Platform",
+      "ecvDetailNote": "Multi-person raft slide requiring stairs to the launch tower.",
+      "description": "Choose between saucer-shaped turns on Maku or a thrilling zero-gravity funnel plunge on Puihi."
+    },
+    "teawa": {
+      "landName": "Volcano Bay",
+      "isIndoor": false,
+      "usualWaitMinutes": 10,
+      "rideType": "Action Rapids River",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "42\" (107 cm)",
+      "lockerPolicy": "Life Vest Required",
+      "ecvPolicy": "Zero-Depth Entry Available",
+      "ecvDetailNote": "Life vests are provided and required for all guests entering the fast-moving rapids river.",
+      "description": "Ride roaring white-water rapids and crashing waves winding around the base of the volcano."
     }
   },
   "shows": {
@@ -284,12 +572,19 @@
       "description": "Fast-paced comedy demonstration revealing the special-effects secrets behind Universal's classic movie monsters.",
       "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "1:45 PM", "3:00 PM", "4:15 PM", "5:15 PM"]
     },
-    "animal actors": {
-      "landName": "Hollywood",
-      "isIndoor": false,
+    "dreamworks imagination": {
+      "landName": "DreamWorks Land",
+      "isIndoor": true,
       "durationMinutes": 20,
-      "description": "Live outdoor amphitheater show starring rescued dogs, birds, and animal performers.",
-      "typicalTimes": ["11:15 AM", "12:30 PM", "1:45 PM", "3:15 PM", "4:30 PM"]
+      "description": "High-energy indoor stage show bringing Shrek, Trolls, and Kung Fu Panda characters together with pop music and dancing.",
+      "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM"]
+    },
+    "po live": {
+      "landName": "DreamWorks Land",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "Interactive animated encounter where Po teaches kung fu moves, cooks stir fry, and chats live with guests.",
+      "typicalTimes": ["Continuous"]
     },
     "blues brothers": {
       "landName": "New York",
@@ -305,12 +600,26 @@
       "description": "The Singing Sorceress and her Banshees perform jazzy wizarding hits live on the Carkitt Market stage.",
       "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM"]
     },
+    "beedle the bard": {
+      "landName": "Diagon Alley",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "Wizarding Academy of Dramatic Arts troupe performs stylized puppetry retellings of The Fountain of Fair Fortune and The Tale of the Three Brothers.",
+      "typicalTimes": ["11:00 AM", "12:00 PM", "1:00 PM", "2:30 PM", "3:30 PM", "4:30 PM"]
+    },
     "frog choir": {
       "landName": "Hogsmeade",
       "isIndoor": false,
       "durationMinutes": 15,
       "description": "Hogwarts students from all four houses perform a cappella wizarding songs accompanied by giant bass-croaking frogs.",
       "typicalTimes": ["10:15 AM", "11:15 AM", "12:15 PM", "2:15 PM", "3:15 PM", "4:15 PM"]
+    },
+    "triwizard spirit": {
+      "landName": "Hogsmeade",
+      "isIndoor": false,
+      "durationMinutes": 15,
+      "description": "Colorful procession and martial arts/rhythmic gymnastics display by Beauxbatons and Durmstrang students.",
+      "typicalTimes": ["10:45 AM", "11:45 AM", "12:45 PM", "2:45 PM", "3:45 PM", "4:45 PM"]
     },
     "cinesational": {
       "landName": "Central Lagoon",
