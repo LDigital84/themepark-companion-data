@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "resortId": "walt_disney_world",
   "attractions": {
     "tron lightcycle": {
@@ -50,6 +50,18 @@
       "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue. Rocket seats sit low to the floor and require stepping down into the vehicle.",
       "description": "Blast off into pitch-black outer space on Magic Kingdom's iconic indoor roller coaster filled with sharp dips and turns."
     },
+    "big thunder mountain": {
+      "landName": "Frontierland",
+      "isIndoor": false,
+      "usualWaitMinutes": 45,
+      "rideType": "Runaway Mine Train Coaster",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Mine Train",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue; standard coaster seat transfer at load.",
+      "description": "Careen through a haunted gold-mining town and newly enhanced glowing Rainbow Caverns on the wildest ride in the wilderness."
+    },
     "haunted mansion": {
       "landName": "Liberty Square",
       "isIndoor": true,
@@ -98,6 +110,162 @@
       "ecvDetailNote": "A dedicated wheelchair-accessible boat with a hydraulic lift allows guests to remain in a manual wheelchair (ECVs transfer to a manual wheelchair).",
       "description": "Embark on a pun-filled river expedition led by a witty skipper past animatronic wildlife across the rivers of the world."
     },
+    "space ranger spin": {
+      "landName": "Tomorrowland",
+      "isIndoor": true,
+      "usualWaitMinutes": 40,
+      "rideType": "Interactive Shooter Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Vehicle",
+      "ecvDetailNote": "A dedicated accessible Star Cruiser allows manual wheelchairs to roll directly onboard; ECVs transfer to a courtesy wheelchair.",
+      "description": "Spin your Star Cruiser and fire upgraded blasters at digital targets to help Buzz Lightyear defeat Emperor Zurg."
+    },
+    "it's a small world": {
+      "landName": "Fantasyland",
+      "isIndoor": true,
+      "usualWaitMinutes": 25,
+      "rideType": "Indoor Boat Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Boat",
+      "ecvDetailNote": "Dedicated accessible boats allow guests to remain in a manual wheelchair throughout the voyage.",
+      "description": "Sail past singing dolls representing cultures from around the globe on a whimsical musical boat tour."
+    },
+    "winnie the pooh": {
+      "landName": "Fantasyland",
+      "isIndoor": true,
+      "usualWaitMinutes": 35,
+      "rideType": "Indoor Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Hunny Pot",
+      "ecvDetailNote": "A dedicated accessible Hunny Pot allows manual wheelchairs to roll directly onboard.",
+      "description": "Bounce with Tigger and float through a blustery day in the Hundred Acre Wood aboard a giant Hunny Pot."
+    },
+    "under the sea": {
+      "landName": "Fantasyland",
+      "isIndoor": true,
+      "usualWaitMinutes": 25,
+      "rideType": "Omnimover Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Clamshell",
+      "ecvDetailNote": "A dedicated clamshell allows manual wheelchairs to roll directly onboard; the belt can be slowed or stopped.",
+      "description": "Journey beneath the waves aboard a clamshell to relive Ariel's musical story from The Little Mermaid."
+    },
+    "dumbo": {
+      "landName": "Fantasyland",
+      "isIndoor": false,
+      "usualWaitMinutes": 25,
+      "rideType": "Aerial Spinner",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; a transfer-assist Dumbo vehicle with a hinged side is available.",
+      "description": "Soar high above Storybook Circus aboard your own flying elephant with an indoor air-conditioned play queue."
+    },
+    "barnstormer": {
+      "landName": "Fantasyland",
+      "isIndoor": false,
+      "usualWaitMinutes": 25,
+      "rideType": "Junior Roller Coaster",
+      "thrillLevel": "Family Thrill",
+      "minHeight": "35\" (89 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; standard step-over transfer into the stunt plane.",
+      "description": "Take a short, zippy flight aboard Goofy's homemade stunt plane in Storybook Circus."
+    },
+    "mad tea party": {
+      "landName": "Fantasyland",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Spinning Teacup Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Teacup",
+      "ecvDetailNote": "Standard wheelchair transfer through the teacup door.",
+      "description": "Spin as fast or as gently as you like inside giant pastel teacups under glowing Wonderland lanterns."
+    },
+    "peoplemover": {
+      "landName": "Tomorrowland",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Elevated Scenic Tour",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Must Be Ambulatory (Moving Ramp)",
+      "ecvDetailNote": "Requires ascending a steep moving speedramp to reach the elevated rotating load platform.",
+      "description": "Relax on a breezy 10-minute elevated tour gliding above Tomorrowland and peeking inside Space Mountain."
+    },
+    "tomorrowland speedway": {
+      "landName": "Tomorrowland",
+      "isIndoor": false,
+      "usualWaitMinutes": 25,
+      "rideType": "Guided Gas Race Cars",
+      "thrillLevel": "Family",
+      "minHeight": "32\" (81 cm) to Ride, 54\" to Drive Alone",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Race Car",
+      "ecvDetailNote": "Requires stepping down into the low-slung race car; a transfer-assist device is available.",
+      "description": "Steer a gas-powered race car along a guided track winding through Tomorrowland."
+    },
+    "astro orbiter": {
+      "landName": "Tomorrowland",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "Elevated Rocket Spinner",
+      "thrillLevel": "Family Thrill",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Rocket",
+      "ecvDetailNote": "Elevator accesses the upper launch pad; guests must step down into the narrow rocket cockpit.",
+      "description": "Pilot a retro rocket ship high above Tomorrowland for panoramic views of Magic Kingdom."
+    },
+    "magic carpets": {
+      "landName": "Adventureland",
+      "isIndoor": false,
+      "usualWaitMinutes": 20,
+      "rideType": "Aerial Spinner",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Carpet",
+      "ecvDetailNote": "A dedicated accessible carpet allows manual wheelchairs to roll directly onboard.",
+      "description": "Fly over Adventureland's Agrabah bazaar while dodging a spitting camel."
+    },
+    "regal carrousel": {
+      "landName": "Fantasyland",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Classic Carousel",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Chariot",
+      "ecvDetailNote": "Accessible chariot allows manual wheelchairs to roll directly onto the carousel.",
+      "description": "Ride one of 90 hand-carved wooden horses on Fantasyland's classic centerpiece carousel."
+    },
+    "walt disney world railroad": {
+      "landName": "Main Street / Frontierland / Fantasyland",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Authentic Steam Train",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags & Folded Strollers Allowed",
+      "ecvPolicy": "Wheelchair & ECV Accessible",
+      "ecvDetailNote": "Ramps at every station allow guests to remain in a manual wheelchair or ECV on board.",
+      "description": "Circle the entire Magic Kingdom aboard an authentic vintage steam train."
+    },
     "cosmic rewind": {
       "landName": "World Discovery",
       "isIndoor": true,
@@ -137,26 +305,98 @@
     "test track": {
       "landName": "World Discovery",
       "isIndoor": true,
-      "usualWaitMinutes": 60,
+      "usualWaitMinutes": 65,
       "rideType": "High-Speed Slot Car Ride",
       "thrillLevel": "High Thrill",
       "minHeight": "40\" (102 cm)",
       "lockerPolicy": "Bags Allowed on Ride",
       "ecvPolicy": "Transfer to Ride Vehicle",
       "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue; a transfer-assist device is available at the load platform.",
-      "description": "Put your vehicle through futuristic performance tests before bursting outdoors onto a banked 65-mph high-speed loop."
+      "description": "Experience EPCOT's newly reimagined celebration of automotive innovation before bursting outdoors onto a banked 65-mph high-speed loop."
     },
     "soarin": {
       "landName": "World Nature (The Land)",
       "isIndoor": true,
-      "usualWaitMinutes": 40,
+      "usualWaitMinutes": 45,
       "rideType": "Flying Theater Simulator",
       "thrillLevel": "Family",
       "minHeight": "40\" (102 cm)",
       "lockerPolicy": "Under-Seat Storage Pouch",
       "ecvPolicy": "Transfer to Hang Glider Seat",
       "ecvDetailNote": "ECVs can stay with you through the queue right up to the theater doors before transferring into the glider seat.",
-      "description": "Lift off into a massive IMAX dome for a breezy hang-gliding flight over iconic global landmarks complete with scents."
+      "description": "Lift off into a massive IMAX dome for Soarin' Across America, a breezy hang-gliding flight over iconic U.S. landscapes and landmarks."
+    },
+    "mission: space": {
+      "landName": "World Discovery",
+      "isIndoor": true,
+      "usualWaitMinutes": 30,
+      "rideType": "Centrifuge Space Simulator",
+      "thrillLevel": "Extreme Thrill (Orange) / Family (Green)",
+      "minHeight": "40\" Green / 44\" Orange",
+      "lockerPolicy": "In-Cabin Storage Bin",
+      "ecvPolicy": "Transfer to Capsule Seat",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair. Orange Mission uses intense G-force spinning; Green Mission offers gentle motion without spinning.",
+      "description": "Choose between an intense G-force flight to Mars (Orange) or a gentle orbit around Earth (Green) inside a tight space capsule."
+    },
+    "spaceship earth": {
+      "landName": "World Celebration",
+      "isIndoor": true,
+      "usualWaitMinutes": 20,
+      "rideType": "Omnimover Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Transfer (Belt Can Slow/Stop)",
+      "ecvDetailNote": "Enter through the exit-side accessible queue; Cast Members can slow or stop the moving walkway for boarding.",
+      "description": "Travel through the history of human communication inside EPCOT's iconic 18-story geodesic sphere."
+    },
+    "living with the land": {
+      "landName": "World Nature (The Land)",
+      "isIndoor": true,
+      "usualWaitMinutes": 15,
+      "rideType": "Indoor Greenhouse Boat Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Boat",
+      "ecvDetailNote": "Dedicated accessible boats allow guests to remain in a manual wheelchair.",
+      "description": "Cruise through working hydroponic greenhouses and fish farms where EPCOT grows produce served in its restaurants."
+    },
+    "seas with nemo": {
+      "landName": "World Nature",
+      "isIndoor": true,
+      "usualWaitMinutes": 15,
+      "rideType": "Omnimover Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Clamobile",
+      "ecvDetailNote": "A dedicated accessible Clamobile allows manual wheelchairs to roll directly onboard.",
+      "description": "Board a Clamobile to find Nemo before exiting directly into a massive 5.7-million-gallon saltwater aquarium."
+    },
+    "figment": {
+      "landName": "World Celebration",
+      "isIndoor": true,
+      "usualWaitMinutes": 15,
+      "rideType": "Indoor Dark Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Vehicle",
+      "ecvDetailNote": "A dedicated accessible vehicle allows manual wheelchairs to roll directly onboard.",
+      "description": "Tour the Imagination Institute's sensory labs with Dr. Nigel Channing and the mischievous purple dragon Figment."
+    },
+    "gran fiesta tour": {
+      "landName": "World Showcase (Mexico)",
+      "isIndoor": true,
+      "usualWaitMinutes": 15,
+      "rideType": "Indoor Boat Ride",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Boat",
+      "ecvDetailNote": "Dedicated accessible boats allow manual wheelchairs to roll directly onboard.",
+      "description": "Float past a Mayan pyramid inside the Mexico pavilion while searching for Donald Duck with the Three Caballeros."
     },
     "rise of the resistance": {
       "landName": "Star Wars: Galaxy's Edge",
@@ -197,14 +437,14 @@
     "rock 'n' roller coaster": {
       "landName": "Sunset Boulevard",
       "isIndoor": true,
-      "usualWaitMinutes": 60,
+      "usualWaitMinutes": 65,
       "rideType": "Indoor Looping Launch Coaster",
       "thrillLevel": "Extreme Thrill",
       "minHeight": "48\" (122 cm)",
       "lockerPolicy": "Bags Allowed on Ride",
       "ecvPolicy": "Transfer to Ride Vehicle",
       "ecvDetailNote": "ECVs transfer to a manual wheelchair for the queue; a transfer-assist vehicle is available at load.",
-      "description": "Rocket from 0 to 57 mph in 2.8 seconds straight into three inversions in the dark."
+      "description": "Rocket from 0 to 57 mph in 2.8 seconds straight into three inversions in the dark starring The Muppets and Dr. Teeth and the Electric Mayhem."
     },
     "runaway railway": {
       "landName": "Hollywood Boulevard",
@@ -221,14 +461,50 @@
     "smugglers run": {
       "landName": "Star Wars: Galaxy's Edge",
       "isIndoor": true,
-      "usualWaitMinutes": 45,
+      "usualWaitMinutes": 50,
       "rideType": "Interactive Flight Simulator",
       "thrillLevel": "Moderate Thrill",
       "minHeight": "38\" (97 cm)",
       "lockerPolicy": "Bags Allowed on Ride",
       "ecvPolicy": "Transfer to Cockpit Seat",
       "ecvDetailNote": "ECVs transfer to a manual wheelchair; elevator access bypasses the stairs to the Millennium Falcon cockpit.",
-      "description": "Take the controls of the Millennium Falcon as a Pilot, Gunner, or Engineer on a smuggling mission for Hondo Ohnaka."
+      "description": "Take the controls of the Millennium Falcon as a Pilot, Gunner, or Engineer on a thrilling mission featuring The Mandalorian and Grogu."
+    },
+    "toy story mania": {
+      "landName": "Toy Story Land",
+      "isIndoor": true,
+      "usualWaitMinutes": 50,
+      "rideType": "Interactive 4D Shooter",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Wheelchair Accessible Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; a dedicated accessible carnival car allows manual wheelchairs to roll straight onboard.",
+      "description": "Compete in fast-paced 3D carnival midway games hosted by Woody, Buzz, and the Toy Story gang."
+    },
+    "alien swirling saucers": {
+      "landName": "Toy Story Land",
+      "isIndoor": false,
+      "usualWaitMinutes": 30,
+      "rideType": "Whip Spinner",
+      "thrillLevel": "Family",
+      "minHeight": "32\" (81 cm)",
+      "lockerPolicy": "Bags Allowed on Ride",
+      "ecvPolicy": "Transfer to Ride Vehicle",
+      "ecvDetailNote": "ECVs transfer to a manual wheelchair; standard step-in transfer into the space rocket.",
+      "description": "Whip around glowing turntables pulled by playful Toy Story Aliens to upbeat electronic space tunes."
+    },
+    "star tours": {
+      "landName": "Echo Lake",
+      "isIndoor": true,
+      "usualWaitMinutes": 20,
+      "rideType": "3D Motion Simulator",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "40\" (102 cm)",
+      "lockerPolicy": "Under-Seat Storage Pouch",
+      "ecvPolicy": "Transfer to Cabin Seat",
+      "ecvDetailNote": "ECVs can stay with you right up to the Starspeeder boarding door before transferring.",
+      "description": "Jump to hyperspace with C-3PO across randomized Star Wars destinations in a 3D motion simulator."
     },
     "flight of passage": {
       "landName": "Pandora – World of Avatar",
@@ -278,6 +554,30 @@
       "ecvDetailNote": "ECVs can stay with you through the queue; dedicated safari trucks allow guests to remain in a manual wheelchair or ECV.",
       "description": "Tour the Harambe Wildlife Reserve aboard an open-air safari truck to spot giraffes, elephants, lions, and rhinos."
     },
+    "kali river rapids": {
+      "landName": "Asia",
+      "isIndoor": false,
+      "usualWaitMinutes": 35,
+      "rideType": "White-Water Raft Ride",
+      "thrillLevel": "Moderate Thrill",
+      "minHeight": "38\" (97 cm)",
+      "lockerPolicy": "Free Lockers Nearby (Will Get Soaked)",
+      "ecvPolicy": "Transfer to Raft",
+      "ecvDetailNote": "A dedicated transfer raft with a hydraulic lift is available; expect to get thoroughly drenched.",
+      "description": "Plunge down a rushing Asian river through geysers and waterfalls aboard a spinning 12-person raft."
+    },
+    "wildlife express": {
+      "landName": "Africa",
+      "isIndoor": false,
+      "usualWaitMinutes": 15,
+      "rideType": "Scenic Park Train",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Bags Allowed on Train",
+      "ecvPolicy": "Wheelchair & ECV Accessible",
+      "ecvDetailNote": "Ramp access allows guests to remain in a manual wheelchair or ECV.",
+      "description": "Ride a rustic African train to Conservation Station for Bluey's Wild World, interactive animal care exhibits, and a petting zoo."
+    },
     "crush 'n' gusher": {
       "landName": "Typhoon Lagoon",
       "isIndoor": false,
@@ -290,6 +590,18 @@
       "ecvDetailNote": "Requires climbing stairs to the slide launch platform and transferring into an inflatable tube.",
       "description": "Blast uphill and down plunges through an abandoned tropical fruit processing plant on a water coaster."
     },
+    "miss adventure falls": {
+      "landName": "Typhoon Lagoon",
+      "isIndoor": false,
+      "usualWaitMinutes": 30,
+      "rideType": "Family Raft Slide",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Paid Water Park Lockers",
+      "ecvPolicy": "Conveyor Belt Lift",
+      "ecvDetailNote": "Board the four-person raft at ground level and ride a conveyor belt to the top of the slide.",
+      "description": "Board a treasure hunter's family raft for a twisting white-water splashdown past an animatronic parrot."
+    },
     "summit plummet": {
       "landName": "Blizzard Beach",
       "isIndoor": false,
@@ -301,6 +613,18 @@
       "ecvPolicy": "Chairlift or Stairs to Peak",
       "ecvDetailNote": "Accessible via the Mount Gushmore Chairlift (wheelchair gondola available) or stairs, then body-slide entry.",
       "description": "Plunge nearly straight down a 120-foot ski jump at up to 60 mph on one of the tallest free-fall body slides in the world."
+    },
+    "teamboat springs": {
+      "landName": "Blizzard Beach",
+      "isIndoor": false,
+      "usualWaitMinutes": 25,
+      "rideType": "Family White-Water Raft Slide",
+      "thrillLevel": "Family",
+      "minHeight": "Any Height",
+      "lockerPolicy": "Paid Water Park Lockers",
+      "ecvPolicy": "Chairlift or Stairs to Peak",
+      "ecvDetailNote": "One of the longest family white-water raft rides in the world, seating up to 6 guests.",
+      "description": "Twist and splash down 1,200 feet of banked snowy rapids in a giant family raft."
     }
   },
   "shows": {
@@ -310,6 +634,13 @@
       "durationMinutes": 18,
       "description": "Magic Kingdom's signature nighttime fireworks and projection spectacular over Cinderella Castle.",
       "typicalTimes": ["8:30 PM", "9:00 PM"]
+    },
+    "disney starlight": {
+      "landName": "Main Street, U.S.A.",
+      "isIndoor": false,
+      "durationMinutes": 20,
+      "description": "Magic Kingdom's dazzling nighttime parade illuminating the park with glowing floats and beloved Disney characters.",
+      "typicalTimes": ["9:00 PM", "11:00 PM"]
     },
     "festival of fantasy": {
       "landName": "Frontierland / Main Street",
@@ -325,12 +656,40 @@
       "description": "4D musical theater show starring Donald Duck stumbling through classic Disney animated songs.",
       "typicalTimes": ["Continuous Every 15m"]
     },
+    "country bear": {
+      "landName": "Frontierland",
+      "isIndoor": true,
+      "durationMinutes": 16,
+      "description": "Nashville-style musical revue where the Country Bears perform reimagined Disney classics in bluegrass and country styles.",
+      "typicalTimes": ["Continuous Every 15m"]
+    },
+    "tiki room": {
+      "landName": "Adventureland",
+      "isIndoor": true,
+      "durationMinutes": 15,
+      "description": "Classic Audio-Animatronic tropical serenade performed by singing birds, flowers, and tiki gods.",
+      "typicalTimes": ["Continuous Every 15m"]
+    },
+    "monsters, inc. laugh floor": {
+      "landName": "Tomorrowland",
+      "isIndoor": true,
+      "durationMinutes": 15,
+      "description": "Interactive live comedy club hosted by Mike Wazowski where animated monsters joke directly with the audience.",
+      "typicalTimes": ["Continuous Every 15m"]
+    },
     "luminous": {
       "landName": "World Showcase Lagoon",
       "isIndoor": false,
       "durationMinutes": 17,
       "description": "EPCOT's nightly fireworks, fountains, lasers, and musical celebration across World Showcase Lagoon.",
       "typicalTimes": ["9:00 PM"]
+    },
+    "turtle talk": {
+      "landName": "World Nature (The Seas)",
+      "isIndoor": true,
+      "durationMinutes": 15,
+      "description": "Interactive live Q&A with Crush the sea turtle from Finding Nemo inside the Seas pavilion.",
+      "typicalTimes": ["Continuous Every 20m"]
     },
     "fantasmic": {
       "landName": "Sunset Boulevard",
@@ -353,6 +712,34 @@
       "description": "Hilarious indoor stage retelling of Frozen hosted by the Royal Historians of Arendelle with Anna, Elsa, and Kristoff.",
       "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "1:30 PM", "2:30 PM", "3:30 PM", "4:30 PM", "5:30 PM"]
     },
+    "beauty and the beast": {
+      "landName": "Sunset Boulevard",
+      "isIndoor": false,
+      "durationMinutes": 25,
+      "description": "Broadway-style open-air musical retelling Beauty and the Beast with live singers, dancers, and elaborate costumes.",
+      "typicalTimes": ["11:00 AM", "1:00 PM", "2:00 PM", "4:00 PM", "5:00 PM"]
+    },
+    "little mermaid": {
+      "landName": "Walt Disney Studios Courtyard",
+      "isIndoor": true,
+      "durationMinutes": 20,
+      "description": "Theatrical musical production bringing Ariel's underwater world to life with puppetry, live vocals, and digital projection effects.",
+      "typicalTimes": ["Continuous Every 25m"]
+    },
+    "unfairly ever after": {
+      "landName": "Sunset Boulevard",
+      "isIndoor": true,
+      "durationMinutes": 20,
+      "description": "Live stage spectacular starring Cruella de Vil, Captain Hook, and Maleficent pleading their case through the Magic Mirror.",
+      "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM"]
+    },
+    "mickey mouse clubhouse live": {
+      "landName": "Walt Disney Studios Courtyard",
+      "isIndoor": true,
+      "durationMinutes": 20,
+      "description": "Upbeat interactive live dance party with Mickey, Minnie, Goofy, Daisy, and Pluto.",
+      "typicalTimes": ["10:00 AM", "11:00 AM", "12:00 PM", "2:00 PM", "3:00 PM", "4:00 PM"]
+    },
     "festival of the lion king": {
       "landName": "Africa",
       "isIndoor": true,
@@ -361,11 +748,25 @@
       "typicalTimes": ["10:00 AM", "11:00 AM", "12:00 PM", "2:00 PM", "3:00 PM", "4:00 PM", "5:00 PM"]
     },
     "finding nemo": {
-      "landName": "DinoLand U.S.A. / Theater in the Wild",
+      "landName": "Theater in the Wild",
       "isIndoor": true,
       "durationMinutes": 25,
       "description": "Live musical puppetry production retelling Finding Nemo from the perspective of the Tank Gang.",
       "typicalTimes": ["10:30 AM", "11:30 AM", "12:30 PM", "2:30 PM", "3:30 PM", "4:30 PM"]
+    },
+    "better zoogether": {
+      "landName": "Discovery Island (Tree of Life)",
+      "isIndoor": true,
+      "durationMinutes": 15,
+      "description": "4D animated theater show inside the Tree of Life joining Judy Hopps and Nick Wilde across Zootopia's diverse biomes.",
+      "typicalTimes": ["Continuous Every 15m"]
+    },
+    "feathered friends": {
+      "landName": "Asia",
+      "isIndoor": false,
+      "durationMinutes": 25,
+      "description": "Live free-flight bird show showcasing Animal Kingdom's avian specialists and exotic birds soaring overhead.",
+      "typicalTimes": ["10:30 AM", "11:30 AM", "1:30 PM", "2:30 PM", "3:30 PM"]
     }
   }
 }
